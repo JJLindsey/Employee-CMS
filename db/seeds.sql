@@ -1,7 +1,7 @@
 INSERT INTO department ()
 VALUES
 
-INSERT INTO role (title, salary, department_id)
+INSERT INTO roles (title, salary, department_id)
 VALUES
     ();
 
