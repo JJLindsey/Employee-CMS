@@ -1,4 +1,5 @@
 const inquirer = require('inquirer');
+const dbData = require('./db/connection.js')
 
 // function roles() {
 //     let sql = `SELECT * FROM roles ORDER BY id`;
